@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Чизбургер",
+      "price": 129,
+      "image": "/burger.jpg",
+      "category": "burgers"
+    },
+    {
+      "id": 2,
+      "name": "Картофель фри",
+      "price": 89,
+      "image": "/fries.jpg",
+      "category": "snacks"
+    }
+  ],
+  "coupons": [
+    {
+      "code": "DISCOUNT10",
+      "discount": 0.1,
+      "valid": true
+    }
+  ],
+  "cart": {
+    "items": [],
+    "coupon": null
+  }
+}

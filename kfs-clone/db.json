@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Чизбургер",
+      "price": 129,
+      "image": "/burger.jpg",
+      "category": "Бургеры"
+    }
+  ],
+  "coupons": [
+    {
+      "code": "DISCOUNT10",
+      "discount": 0.1,
+      "valid": true
+    }
+  ],
+  "orders": []
+}
