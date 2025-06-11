@@ -1,11 +1,11 @@
-# Cfsclone - Игровой клуб (React + Vite)
+# Cfsclone (React + Vite)
 
 ## Описание проекта
-Веб-приложение для игрового клуба с возможностью:
-- Просмотра услуг и мероприятий
-- Регистрации на турниры
-- Оставления отзывов
-- Просмотра контактной информации
+Веб-приложение для сайта по продаже фастфуда:
+- Просмотра товаров
+- Заказ еды
+- Просмотр актуальных купонов
+- Просмотр актуальных акций
 
 ## Технологии
 - React 18
@@ -38,6 +38,6 @@ npm run server
 ```
 
 ## Ссылки
-[Figma макет](https://www.figma.com/design/eSHD0yvblcgnOptDyhFrEb/Untitled?node-id=0-1&t=MxWR3ef5kMa0ryK2-1)
+[Figma макет](https://www.figma.com/design/tABjVhbDVXtWzgGOeXmiSK/Untitled?node-id=0-1&t=odVbIEJYLDv9eaET-1)
 
-[GitHub репозиторий](https://github.com/gen1us1y/up_)
+[GitHub репозиторий](https://github.com/veepser/kfs)
